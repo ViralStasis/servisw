@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "ultrasonicESP32",
+			"path": "../../ultrasonicESP32"
+		}
+	],
+	"settings": {}
+}
